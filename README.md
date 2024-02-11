@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iqbalshah786&label=Profile%20views&color=0e75b6&style=flat" alt="iqbalshah786" /> </p>
 
-- 🌱 I’m currently learning **html , css javascript , tailwind**
+- 🌱 I’m currently learning **html , css , javascript , tailwind**
 
 - 📫 How to reach me **https://www.linkedin.com/in/iqbalshah-nadiri**
 
